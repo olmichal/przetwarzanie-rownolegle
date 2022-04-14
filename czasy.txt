@@ -1,0 +1,56 @@
+pi1
+------------------------------------------------
+ 3.141592653590 wartosc liczby PI sekwencyjnie 
+------------------------------------------------
+Czas procesorów przetwarzania sekwencyjnego  0.953084 sekund 
+------------------------------------------------
+Czas trwania obliczen sekwencyjnych - wallclock 0.953175 sekund 
+------------------------------------------------
+
+pi2
+------------------------------------------------
+ 0.243971821796 Wartosc liczby PI rownolegle dla 16 wątków
+Czas trwania obliczen rownoleglych dla 16 wątków - wallclock 0.126979 sekund 
+------------------------------------------------
+ 0.266272655103 Wartosc liczby PI rownolegle dla 8 wątków
+Czas trwania obliczen rownoleglych dla 8 wątków - wallclock 0.164584 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 1 wątków
+Czas trwania obliczen rownoleglych dla 1 wątków - wallclock 0.945847 sekund 
+------------------------------------------------
+
+pi3
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 16 wątków
+Czas trwania obliczen rownoleglych dla 16 wątków - wallclock 116.237017 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 8 wątków
+Czas trwania obliczen rownoleglych dla 8 wątków - wallclock 43.435612 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 1 wątków
+Czas trwania obliczen rownoleglych dla 1 wątków - wallclock 3.755533 sekund 
+------------------------------------------------
+
+pi4
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 16 wątków
+Czas trwania obliczen rownoleglych dla 16 wątków - wallclock 0.125813 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 8 wątków
+Czas trwania obliczen rownoleglych dla 8 wątków - wallclock 0.209073 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 1 wątków
+Czas trwania obliczen rownoleglych dla 1 wątków - wallclock 0.959664 sekund 
+------------------------------------------------
+
+pi5
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 16 wątków
+Czas trwania obliczen rownoleglych dla 16 wątków - wallclock 0.128131 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 8 wątków
+Czas trwania obliczen rownoleglych dla 8 wątków - wallclock 0.232751 sekund 
+------------------------------------------------
+ 3.141592653590 Wartosc liczby PI rownolegle dla 1 wątków
+Czas trwania obliczen rownoleglych dla 1 wątków - wallclock 0.949712 sekund 
+------------------------------------------------
