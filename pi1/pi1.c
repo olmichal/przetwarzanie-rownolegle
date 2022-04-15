@@ -35,3 +35,11 @@ int main()
     printf("------------------------------------------------\n");
     return 0;
 }
+
+// ------------------------------------------------
+//  3.141592653590 wartosc liczby PI sekwencyjnie 
+// ------------------------------------------------
+// Czas procesorów przetwarzania sekwencyjnego  0.944504 sekund 
+// ------------------------------------------------
+// Czas trwania obliczen sekwencyjnych - wallclock 0.944600 sekund 
+// ------------------------------------------------
