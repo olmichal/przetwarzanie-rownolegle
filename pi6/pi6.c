@@ -59,14 +59,14 @@ int main(){
 
 // ------------------------------------------------
 //  3.141592653590 Wartosc liczby PI rownolegle 16
-// Czas procesorów przetwarzania równoleglego  1.974791 sekund 
-// Czas trwania obliczen rownoleglych - wallclock 0.126623 sekund 
+// Czas procesorów przetwarzania równoleglego  2.305466 sekund 
+// Czas trwania obliczen rownoleglych - wallclock 0.185826 sekund 
 // ------------------------------------------------
 //  3.141592653590 Wartosc liczby PI rownolegle 8
-// Czas procesorów przetwarzania równoleglego  1.151469 sekund 
-// Czas trwania obliczen rownoleglych - wallclock 0.195453 sekund 
+// Czas procesorów przetwarzania równoleglego  1.204316 sekund 
+// Czas trwania obliczen rownoleglych - wallclock 0.222302 sekund 
 // ------------------------------------------------
 //  3.141592653590 Wartosc liczby PI rownolegle 4
-// Czas procesorów przetwarzania równoleglego  0.979279 sekund 
-// Czas trwania obliczen rownoleglych - wallclock 0.245385 sekund 
+// Czas procesorów przetwarzania równoleglego  0.972535 sekund 
+// Czas trwania obliczen rownoleglych - wallclock 0.243932 sekund 
 // ------------------------------------------------
