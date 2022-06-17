@@ -6,4 +6,4 @@ Tutaj znajdziecie wszystkie zadania z laboratorium Przetwarzania Równoległego 
 | ------- | ----- |
 | Zadanie OMP | Kody poprawne, każdy ma indywidualną odpytkę |
 | Projekt OMP | 38/55 (ocena: 4-) |
-| Projekt CUDA | | 
+| Projekt CUDA (2 wariant) | | 
